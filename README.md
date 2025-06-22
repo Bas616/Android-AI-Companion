@@ -1,6 +1,6 @@
 # Philosophical AI Companion (Android App)
 
-![AI Companion Header Image Placeholder](app/src/main/) 
+![AI Companion Header Image Placeholder](app/src/main/res/mipmap-xxxhdpi/bruh.png) 
 
 An Android application exploring the profound intersection of Artificial Intelligence, philosophy, and human interaction. This app hosts a client-side AI chatbot within a WebView, allowing for philosophical conversations directly on your Android device without needing an internet connection (after initial download).
 
