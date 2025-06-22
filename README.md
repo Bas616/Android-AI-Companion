@@ -1,7 +1,6 @@
 # Philosophical AI Companion (Android App)
 
-![AI Companion Header Image Placeholder](https://via.placeholder.com/1200x400/4A90E2/FFFFFF?text=Philosophical+AI+Companion+App) 
-<!-- Placeholder Image: Replace with an actual header image for your project on GitHub -->
+![AI Companion Header Image Placeholder](app/src/main/) 
 
 An Android application exploring the profound intersection of Artificial Intelligence, philosophy, and human interaction. This app hosts a client-side AI chatbot within a WebView, allowing for philosophical conversations directly on your Android device without needing an internet connection (after initial download).
 
